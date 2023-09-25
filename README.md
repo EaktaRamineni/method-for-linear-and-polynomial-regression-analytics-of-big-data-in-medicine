@@ -1,0 +1,1 @@
+# method-for-linear-and-polynomial-regression-analytics-of-big-data-in-medicine
